@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm [Elmira]!
 
-<!--
-**Mirabird/Mirabird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming**: C#, Python, basic C ++, Git 
+- **Engines**: Unity, Unreal Engine, Nuke, Houdini, Blender
+- **Specializations**: 3D Modelling, Optimization, Shader Development, Particle Effects, Simulations (fire, liquid, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my repositories:
+- [Project 1](https://github.com/username/project1) – краткое описание
+- [Project 2](https://github.com/username/project2) – краткое описание
+- [Project 3](https://github.com/username/project3) – краткое описание
+- [Project 4](https://github.com/username/project4) – краткое описание
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/elmira-elmira-a7260866/)
+- [Email](mailto:almira7@inbox.ru)
