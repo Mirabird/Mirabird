@@ -16,7 +16,7 @@ Here are some of my repositories:
 - [Project 4](https://github.com/Mirabird/Shaders_in_Shader_graph) – Different types of shaders created in Shader graph
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/elmira-elmira-a7260866/)
+- **LinkedIn**- [https://www.linkedin.com/in/elmira-elmira-a7260866/](https://www.linkedin.com/in/elmira-elmira-a7260866/)
 - [Email](mailto:almira7@inbox.ru)
 - Telegram: @Mirabird
 - **SoloLearn Platform**- [https://sololearn.com/profile/31570718](https://sololearn.com/profile/31570718)
