@@ -3,6 +3,11 @@
 ## 🌟 About Me
 I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
 
+👩‍🎓 I study VFX: Compositing + 3D  at Industria school, 2023-2025
+👩‍🎓 I study creating mobile games during 1 + years using Unity, C# at Netology, 2023-2025
+👩‍🎓 Graduated Kazan State Technological University, Specialist Degree in Computer Engineering and Control Systems, 2005. Graduated with a Specialist Degree in Computer Engineering with Honors (Red Diploma).
+Thesis: "Development of an Operator Interface within the framework of an Automated Control System for Technological Processes - Oil Loading"
+
 ## 🛠 Skills
 - **Programming**: C#, Python, basic C ++, Git 
 - **Engines**: Unity, Unreal Engine, Nuke, Houdini, Blender
