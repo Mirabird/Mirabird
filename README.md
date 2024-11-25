@@ -18,3 +18,4 @@ Here are some of my repositories:
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/elmira-elmira-a7260866/)
 - [Email](mailto:almira7@inbox.ru)
+- Telegram: @Mirabird
