@@ -9,7 +9,7 @@ I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unit
 
 👩‍🎓 Graduated Kazan State Technological University, Specialist Degree in Computer Engineering and Control Systems, 2005. Graduated with a Specialist Degree in Computer Engineering with Honors (Red Diploma)
 
-⚡ I have been working as IT Engineer for 15+ years. Including **Huawei, Luxoft, DataArmor etc.
+⚡ I have been working as IT Engineer for 15+ years. Including Huawei, Luxoft, DataArmor etc.
 
 
 ## 🛠 Skills
