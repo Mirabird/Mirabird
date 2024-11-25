@@ -19,3 +19,4 @@ Here are some of my repositories:
 - [LinkedIn](https://www.linkedin.com/in/elmira-elmira-a7260866/)
 - [Email](mailto:almira7@inbox.ru)
 - Telegram: @Mirabird
+- [SoloLearn Platform](https://sololearn.com/profile/31570718)
