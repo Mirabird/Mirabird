@@ -17,7 +17,7 @@ Here are some of my repositories:
 
 ## 📫 Let's Connect
 - **LinkedIn**- [https://www.linkedin.com/in/elmira-elmira-a7260866/](https://www.linkedin.com/in/elmira-elmira-a7260866/)
-- [Email](mailto:almira7@inbox.ru)
+- **Email**- [almira7@inbox.ru](almira7@inbox.ru)
 - Telegram: @Mirabird
 - **SoloLearn Platform**- [https://sololearn.com/profile/31570718](https://sololearn.com/profile/31570718)
 
