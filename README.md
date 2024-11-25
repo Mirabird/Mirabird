@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Elmira]!
+# 👋 Hi, I'm Elmira!
 
 ## 🌟 About Me
 I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
