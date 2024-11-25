@@ -6,7 +6,7 @@ I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unit
 ## 🛠 Skills
 - **Programming**: C#, Python, basic C ++, Git 
 - **Engines**: Unity, Unreal Engine, Nuke, Houdini, Blender
-- **Specializations**: 3D Modelling, Optimization, Shader Development, VFX, Simulations (fire, liquid, etc.)
+- **Specializations**: 3D Modelling, Optimization, Shader Development, VFX, Simulations (fire, liquid, explosions etc.)
 
 ## 🚀 Projects
 Here are some of my repositories:
