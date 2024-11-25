@@ -10,7 +10,7 @@ I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unit
 
 ## 🚀 Projects
 Here are some of my repositories:
-- [Project 1](https://github.com/username/project1) – краткое описание
+- [Project 1](https://github.com/Mirabird/Unreal_Interactive_walk) –  Interactive walk in UE 5
 - [Project 2](https://github.com/username/project2) – краткое описание
 - [Project 3](https://github.com/username/project3) – краткое описание
 - [Project 4](https://github.com/username/project4) – краткое описание
