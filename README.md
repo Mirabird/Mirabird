@@ -7,7 +7,9 @@ I'm  a passionate Senior 3D Engineer and Technical Artist with expertise in Unit
 
 👩‍🎓 I study creating mobile games during 1 + years using Unity, C# at Netology, 2023-2025
 
-👩‍🎓 Graduated Kazan State Technological University, Specialist Degree in Computer Engineering and Control Systems, 2005. Graduated with a Specialist Degree in Computer Engineering with Honors (Red Diploma).
+👩‍🎓 Graduated Kazan State Technological University, Specialist Degree in Computer Engineering and Control Systems, 2005. Graduated with a Specialist Degree in Computer Engineering with Honors (Red Diploma)
+
+⚡ I have been working as IT Engineer for 15+ years. Including **Huawei, Luxoft, DataArmor etc.
 
 
 ## 🛠 Skills
