@@ -3,13 +3,29 @@
 ## 🌟 About Me
 I'm a passionate Senior 3D Engineer and Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
 
+🎓 **Education**:
+•	Kazan State Technical University, Specialist Degree, Computer Engineer (with Honors), 2005.
+•	Kazan State University of Architecture and Engineering, Architect Engineer, 3D Artist, 2010.
+
+🎮 **Key Skills & Expertise**:
+•	Worked on 15+ projects related to 3D visualization and graphics, including ray tracing, 3D rendering, 3D modeling, and visualization (Huawei);
+•	Developed 2 high-quality 3D models that improved the performance of mobile games on Huawei devices;
+•	Developed a game in Unity3D for OpenHarmony (research focused on Vulkan, OpenGL, URP, Built-in );
+•	Extensive experience in AR/VR, including the creation of a pet project for the “Troika” map.
+•	Expertise in simulation creation (working with particle effects and VFX, Houdini).
+•	Background in Robotics and AI.
+
+👨‍💼 **Leadership Experience**: 
+•	Over 2 years of experience leading technical teams, with a focus on testing and quality assurance.
+
+💼**Key Employers**:
+•	Huawei
+•	Luxoft
+•	DataArmor (Firewall for Databases, DB Defense, US-based company)
+
 👩‍🎓 **VFX Studies**: Compositing + 3D at Industria School, 2023–2025
 
 👩‍🎓 **Mobile Game Development**: 1 + years of experience creating mobile games with Unity and C#, currently studying at Netology, 2023–2025
-
-👩‍🎓 **Graduation**: Specialist Degree in Computer Engineering and Control Systems, Kazan State Technological University, 2005 (Graduated with Honors, Red Diploma)
-
-⚡ **Experience**: Over 15 years working as an IT Engineer, including positions at Huawei, Luxoft, DataArmor, and more.
 
 ## 🛠 Skills
 - **Programming**: C#, Python, basic C ++, Git 
