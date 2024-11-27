@@ -20,6 +20,7 @@ I'm a passionate Senior 3D Engineer and Technical Artist with expertise in Unity
 
 💼**Key Employers**:
 •	Huawei
+•	DXC
 •	Luxoft
 •	DataArmor (Firewall for Databases, DB Defense, US-based company)
 
