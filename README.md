@@ -4,7 +4,7 @@
 I'm a passionate Senior 3D Engineer and Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
 
 🎓 **Education**:
-•	Kazan State Technical University, Specialist Degree, Computer Engineer (with Honors), 2005.
+•	Kazan National Research Technological University, Specialist Degree, Computer Engineer (with Honors), 2005.
 •	Kazan State University of Architecture and Engineering, Architect Engineer, 3D Artist, 2010.
 
 🎮 **Key Skills & Expertise**:
