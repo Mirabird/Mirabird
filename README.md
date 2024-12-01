@@ -39,7 +39,8 @@ Here are some of my repositories:
 - [Project 2](https://github.com/Mirabird/Unreal_Project4) – Environment Art created in Unreal Engine 4
 - [Project 3](https://github.com/Mirabird/Unity_Projects_Netology) – C# scripts for various game prototypes
 - [Project 4](https://github.com/Mirabird/Shaders_in_Shader_graph) – Different types of shaders created in Shader Graph
-- [Project 5](https://github.com/Mirabird/Shaders_in_Shader_graph) –  
+- [Project 5](https://github.com/Mirabird/Houdini_projects) – Simulations, effects and 3D modeling in  Houdini
+
 
 ## 📫 Let's Connect
 - **LinkedIn**- [https://www.linkedin.com/in/elmira-elmira-a7260866/](https://www.linkedin.com/in/elmira-elmira-a7260866/)
