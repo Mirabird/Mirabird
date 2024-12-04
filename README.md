@@ -1,7 +1,7 @@
 # 👋 🙋‍♀️ 🎉 Hi, I'm Elmira!
 
 ## 🌟 About Me
-I'm a passionate Senior 3D Engineer and Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
+I'm a passionate Technical Artist with expertise in Unity, Unreal Engine, and creating awesome visual effects.
 
 🎓 **Education**:
 •	Kazan National Research Technological University, Specialist Degree, Computer Engineer (with Honors), 2005.
