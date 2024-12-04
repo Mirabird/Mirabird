@@ -28,7 +28,7 @@ I'm a passionate Technical Artist with expertise in Unity, Unreal Engine, and cr
 👩‍🎓 **Mobile Game Development**: 1 + years of experience creating mobile games with Unity and C#, currently studying at Netology, 2023–2025
 
 ## 🛠 Skills
-- **Programming**: C#, Python, basic C ++, Git 
+- **Programming**: C#, Python, basic knowledge of C++, Git 
 - **Engines**: Unity, Unreal Engine, Nuke, Houdini, Blender, 3dsmax
 - **Specializations**: 3D Modeling, Optimization, Shader Development, VFX, Simulations (fire, liquid, explosions, etc.)
 
