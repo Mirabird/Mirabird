@@ -13,7 +13,6 @@ I'm a passionate Technical Artist with expertise in Unity, Unreal Engine, and cr
 •	Developed a game in Unity3D for OpenHarmony (research focused on Vulkan, OpenGL, URP, Built-in );
 •	Extensive experience in AR/VR, including the creation of a pet project for the “Troika” map.
 •	Expertise in simulation creation (working with particle effects and VFX, Houdini).
-•	Background in Robotics and AI.
 
 👨‍💼 **Leadership Experience**: 
 •	Over 2 years of experience leading technical teams, with a focus on testing and quality assurance.
